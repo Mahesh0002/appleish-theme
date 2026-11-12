@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Appleish
+Comment=Apple HIG-inspired GTK theme: consistent spacing, type scale, radii
+GtkTheme=Appleish
+Icon=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=appmenu:minimize,maximize,close
